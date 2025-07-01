@@ -1,0 +1,71 @@
+    {
+      "profile": {
+        "name": "你的名字",
+        "email": "your-email@example.com",
+        "phone": "138-0013-8000",
+        "github": "Yeye78988",
+        "linkedin": "your-linkedin-id",
+        "workExpYear": "3年"
+      },
+      "education": [
+        {
+          "school": "你的大学",
+          "major": "计算机科学与技术",
+          "degree": "学士",
+          "startTime": "2018-09",
+          "endTime": "2022-06"
+        }
+      ],
+      "skills": [
+        {
+          "name": "JavaScript / TypeScript",
+          "level": 90,
+          "description": "熟练掌握核心概念，能够进行复杂应用开发"
+        },
+        {
+          "name": "React / Hooks",
+          "level": 90,
+          "description": "深入理解React原理，熟练使用Hooks进行状态管理和逻辑复用"
+        },
+        {
+          "name": "Node.js / Express",
+          "level": 80,
+          "description": "能够独立开发和部署RESTful API"
+        },
+        {
+          "name": "数据库 (MongoDB / MySQL)",
+          "level": 75,
+          "description": "熟悉数据库设计和性能优化"
+        }
+      ],
+      "workExperience": [
+        {
+          "company": "某科技公司",
+          "department": "前端开发部",
+          "position": "前端工程师",
+          "startTime": "2022-07",
+          "endTime": "至今",
+          "jobContent": [
+            "负责核心业务产品的Web前端开发和维护工作。",
+            "使用React和TypeScript对现有项目进行重构，提升了应用的性能和可维护性。",
+            "参与设计和开发公司内部的组件库，提高了团队的开发效率。"
+          ]
+        }
+      ],
+      "projectExperience": [
+        {
+          "name": "在线简历生成器 (本项目)",
+          "role": "独立开发者",
+          "startTime": "2024-05",
+          "endTime": "至今",
+          "description": "一个功能完善的在线简历生成器，解决了原项目的核心痛点。",
+          "highlights": [
+            "实现了Node.js+MongoDB后端，支持数据持久化和自动保存。",
+            "重构了分享功能，通过生成唯一的短ID来分享简历快照。",
+            "通过自定义React Hooks对前端代码进行重构，提升了代码质量和可维护性。"
+          ],
+          "techStack": "React, Node.js, Express, MongoDB, Ant Design"
+        }
+      ],
+      "selfIntroduction": "我是一名充满热情的前端开发者，拥有X年的Web开发经验。我对构建高性能、用户体验优秀的应用充满兴趣，具备良好的编码习惯和团队协作精神，并热衷于学习和探索前沿技术。"
+    }
