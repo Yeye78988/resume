@@ -16,7 +16,7 @@ function saveToLocalApi(data: ResumeConfig) {
 
 // 指向你自己仓库中的 resume.json 模板文件
 const GITHUB_URL =
-  'https://raw.githubusercontent.com/Yeye78988/resume-builder-online/main/resume.json';
+  'https://raw.githubusercontent.com/Yeye78988/resume/main/resume.json';
 
 export function fetchResume(lang: string): Promise<ResumeConfig> {
   return fetch('http://localhost:3001/api/resume')
